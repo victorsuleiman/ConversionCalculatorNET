@@ -1,0 +1,7 @@
+Miles|Kilometers|1.6093
+Kilometers|Miles|0.6214
+Feet|Meters|0.3048
+Meters|Feet|3.2808
+Inches|Centimeters|2.54
+Centimeters|Inches|0.3937
+Yards|Meters|0.9144

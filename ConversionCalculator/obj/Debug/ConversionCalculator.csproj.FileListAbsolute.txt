@@ -1,0 +1,12 @@
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\bin\Debug\ConversionCalculator.exe.config
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\bin\Debug\ConversionCalculator.exe
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\bin\Debug\ConversionCalculator.pdb
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.csproj.AssemblyReference.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.frmConversion.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.Properties.Resources.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.csproj.GenerateResource.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.csproj.CoreCompileInputs.cache
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.exe
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.pdb
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.frmAddConversion.resources
+D:\Google Drive\Douglas College - PBD CSIS\6 - Summer 2021\4050 - Adv. OOP for Business Apps\Labs\Lab 11\ConversionCalculator\ConversionCalculator\obj\Debug\ConversionCalculator.frmManageConversions.resources
